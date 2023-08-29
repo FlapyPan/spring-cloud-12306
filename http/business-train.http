@@ -1,0 +1,15 @@
+GET http://localhost:8000/business/admin/train/query-all
+Accept: application/json
+
+###
+
+GET http://localhost:8000/business/admin/train/gen-seat/G1
+Accept: application/json
+
+###
+
+
+DELETE http://localhost:8000/business/admin/train/delete/123
+Accept: application/json
+
+###

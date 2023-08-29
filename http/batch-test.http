@@ -1,0 +1,14 @@
+GET http://localhost:8003/batch/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8000/batch/hello
+Accept: application/json
+
+###
+
+GET http://47.101.44.52/batch/hello
+Accept: application/json
+
+###

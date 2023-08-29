@@ -1,0 +1,14 @@
+GET http://localhost:8002/business/hello
+Accept: application/json
+
+###
+
+GET http://localhost:8000/business/hello
+Accept: application/json
+
+###
+
+GET http://47.101.44.52/business/hello
+Accept: application/json
+
+###
